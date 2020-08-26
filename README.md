@@ -1,4 +1,12 @@
 # Kindergarten_Automation
+An automation system has been developed where parents can get information about their students.
+
+The administrator can add, update, search, list and delete students, teachers and parents to the system. It can perform class, course, course schedule, activity, announcement, menu, income-expense, dues, add to gallery sections, update, delete, search, list. Drug and attendance can search and list.
+
+Velilerin öğrencileri hakkında bilgi alabileceği bir otomasyon sistemi geliştirildi.
+
+Yönetici sisteme öğrenci,öğretmen ve veliyi ekleme,güncelleme,arama,listeleme ve silme işlemlerini yapabilir. Sınıf,ders,ders programı,etkinlik,duyuru,yemek listesi,gelir-gider,aidat,galeri kısımlarına ekleme,güncelleme,silme,arama,listeleme işlemlerini gerçekleştirebilir. İlaç ve yoklama arama,listeleme yapabilir.
+
 
 # User Login
 
